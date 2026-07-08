@@ -26,7 +26,7 @@ Cada directorio incluye el código fuente en Jupyter Notebook, los conjuntos de 
 | **02** | **Binarias Eclipsantes** | Estimar parámetros físicos y geométricos (inclinación orbital, radios estelares) a partir del análisis morfológico de curvas de luz. |
 | **03** | **Cúmulos Abiertos** | Derivar el exceso de color, la distancia y la Función Inicial de Masa (IMF) de un cúmulo abierto aislando su secuencia principal en diagramas color-magnitud. |
 | **04** | **Cúmulos Globulares** | Determinar la metalicidad y la edad de un cúmulo globular mediante el ajuste de isocronas teóricas sobre datos fotométricos corregidos por extinción. |
-| **05** | **Vía Láctea y Distribución Espacial** | Mapear tridimensionalmente las poblaciones de cúmulos estelares para analizar gradientes galácticos de metalicidad y edad estructural. |
+| **05** | **Vía Láctea, Cúmulos Estelares** | Mapear tridimensionalmente las poblaciones de cúmulos estelares para analizar gradientes galácticos de metalicidad y edad. |
 | **06** | **Rotación Diferencial Galáctica** | Analizar la cinemática de la Vía Láctea evidenciando la rotación diferencial mediante las constantes de Oort y estimar la masa dinámica galáctica. |
 | **07** | **Medio Interestelar y Polarización**| Caracterizar el polvo interestelar ajustando la ley empírica de Serkowski sobre mediciones polarimétricas con sus respectivas barras de error. |
-| **08** | **Galaxias de Tipo Temprano** | Extraer parámetros estructurales de una galaxia elíptica mediante el modelado avanzado de isofotas y la construcción de su perfil de brillo superficial a partir de imágenes FITS. |
+| **08** | **Galaxias de Tipo Temprano** | Extraer parámetros estructurales de una galaxia elíptica mediante el modelado de isofotas y la construcción de su perfil de brillo superficial a partir de imágenes FITS. |
